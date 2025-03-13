@@ -2,11 +2,11 @@
 Numi is an open source ESP8266 numitron clock. It's designed to be as low profile as possible, powered using USB-PD.
 
 **Wiki**  
-Software-wise it is based on my Flora-ESP8266 project, so you can head over there for basic info.
+Software-wise it is based on my Flora-ESP8266 project, so you can head over there for basic info.  
 https://github.com/mcer12/Flora-ESP8266/wiki/
 
 **Enclosure**  
-You can find the designs in this repository inside "3D" folder or download them on printables
+You can find the designs in this repository inside "3D" folder or download them on printables  
 https://www.printables.com/model/1228268
 
 **Some things to note:**
